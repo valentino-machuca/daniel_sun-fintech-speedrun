@@ -1,0 +1,26 @@
+.footer{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 80px;
+}
+
+.footer p{
+   text-align: center;
+}
+
+
+.footer .companies_logos{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   width: 70%;
+   margin-top: 20px;
+}
+
+
+.footer .companies_logos img{
+   width: auto;
+   height: 25px;
+}
